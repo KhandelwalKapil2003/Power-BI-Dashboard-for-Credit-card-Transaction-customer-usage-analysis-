@@ -1,5 +1,5 @@
 Objective of Project :
-Developed an interactive Power BI dashboard that provides actionable insights into credit card transactions and customer usage patterns, enabling banks to make informed business decisions.
+Power BI dashboard that provides actionable insights into credit card transactions and customer usage patterns, enabling banks to make informed business decisions.
 
 Following steps took:
 
